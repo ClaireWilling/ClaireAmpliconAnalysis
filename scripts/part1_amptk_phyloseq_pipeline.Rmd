@@ -52,16 +52,6 @@ To install docker on your computer, follow the instructions below:
 brew install --cache docker
 ```
 
-#### **with Linux:**
-
-```{bash echo=FALSE}
-sudo apt update
-sudo apt install docker.io
-sudo systemctl start docker
-sudo systemctl enable docker
-sudo usermod -aG docker $USER
-```
-
 Now log out and log back in for changes to take effect. The remaining steps should be the same for Unix and Linux.
 
 ```{bash echo=FALSE}
