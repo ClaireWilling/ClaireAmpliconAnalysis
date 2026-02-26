@@ -1,9 +1,5 @@
 # Generating OTU tables through AMPtk
 
-::: {style="text-align: center;"}
-<img src="images/3166CAF0-0BFF-4A7D-B8BB-D13DCCAE0705_1_105_c.jpeg" width="200"/>
-:::
-
 1.  **Fork the repository;** you can treat this as your own personal version with specific to your operating system. This will be a public repository on your github page.
 2.  **Clone your fork repository** and add it to your new private analysis repository (e.g., `FungiFire` on our lab's github page.
     -   Go to [GitHub Import Repository](https://github.com/new/import). Paste the URL of the public repo. Name your new repository and set it to Private.
